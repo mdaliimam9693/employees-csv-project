@@ -7,3 +7,7 @@ This project is made by using Pyhton and CSV file handling.
 - search
 - delete
 - update
+
+## Technologies Used
+- Python
+- CSV file handling
