@@ -1,3 +1,18 @@
+# Student Management System
+
+## Features
+- Add Student
+- Show Students
+- Search Student
+- Delete Student
+- Filter Students (Marks > 80)
+- Duplicate ID Prevention
+
+## Tech Used
+- Python
+- CSV File Handling
+
+
 # employees Management  System (CSV based)
 
 ## Description 
