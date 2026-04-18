@@ -1,3 +1,20 @@
+# Student Dashboard (Pandas Project)
+
+## Features
+- Total Students Count
+- Average Marks Calculation
+- Topper and Lowest Student
+- Pass/Fail Count
+- Course-wise Analysis using GroupBy
+
+## Tech Used
+- Python
+- Pandas
+- CSV File Handling
+
+## Description
+This project analyzes student data using Pandas and generates a simple dashboard with useful insights.
+
 # Student Management System
 
 ## Features
@@ -11,7 +28,6 @@
 ## Tech Used
 - Python
 - CSV File Handling
-
 
 # employees Management  System (CSV based)
 
